@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
