@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
