@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
@@ -44,9 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
