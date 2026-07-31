@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
