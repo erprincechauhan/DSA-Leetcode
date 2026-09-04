@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
