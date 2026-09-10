@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Database
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Minimax
 |  |
 | ------- |
