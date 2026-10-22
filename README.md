@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1025-divisor-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
