@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/erprincechauhan/DSA-Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
